@@ -1,0 +1,12 @@
+node_modules
+dist
+build
+buildElectron/*.js
+cbt-dict-pwa
+*.DS_Store
+and
+win
+*.provisionprofile
+*.xcuserdatad
+public/assets.zip
+buildElectron/locales

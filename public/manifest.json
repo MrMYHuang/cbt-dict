@@ -1,0 +1,27 @@
+{
+  "short_name": "漢英佛學辭典",
+  "name": "漢英佛學辭典",
+  "icons": [
+    {
+      "src": "assets/icon/icon.png",
+      "type": "image/png",
+      "sizes": "1024x1024"
+    },
+    {
+      "src": "assets/icon/icon.png",
+      "type": "image/png",
+      "sizes": "1024x1024",
+      "purpose": "maskable"
+    }
+  ],
+  "scope": "/cbt-dict/",
+  "start_url": "/cbt-dict/",
+  "url_handlers": [
+    {
+      "origin": "https://myhpwa.github.io"
+    }
+  ],
+  "display": "standalone",
+  "theme_color": "black",
+  "background_color": "black"
+}

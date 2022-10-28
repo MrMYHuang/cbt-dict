@@ -1,0 +1,7 @@
+{
+  "name": "cbt-dict",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

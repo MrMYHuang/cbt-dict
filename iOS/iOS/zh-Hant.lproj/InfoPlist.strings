@@ -1,0 +1,8 @@
+/* 
+  InfoPlist.strings
+
+  Created by 黃孟遠 on 2022/5/22.
+  
+*/
+CFBundleDisplayName = "漢英佛學辭典";
+CFBundleName = "漢英佛學辭典";

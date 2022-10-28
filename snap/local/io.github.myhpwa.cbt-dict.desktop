@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=漢英佛學辭典
+GenericName=漢英佛學辭典
+Exec=cbt-dict/cbt-dict --no-sandbox
+Icon=${SNAP}/meta/gui/icon.png
+Type=Application
+Terminal=false
+Categories=None;
+StartupWMClass=cbt-dict

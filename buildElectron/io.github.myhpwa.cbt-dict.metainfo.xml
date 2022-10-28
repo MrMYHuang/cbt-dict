@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>io.github.myhpwa.cbt-dict</id>
+  <name>丁福保漢英佛學辭典</name>
+  <summary>丁福保佛學大辭典，支援離線瀏覽！</summary>
+  <metadata_license>MIT</metadata_license>
+  <project_license>MIT</project_license>
+  <description>
+    <p>
+      丁福保佛學大辭典 (Ding Fubao: Dictionary of Buddhist Studies) 由丁福保居士耗時八年编著而成，譯自日本人織田德能的《佛學大辭典》，是刪除了日本佛教相關資料及文獻出處之後所成的節譯本。于1922年正式出版，收錄條目三萬多個，360多萬字。
+
+      此 app 特色：隨機或自定顯示一則佛學辭定義、書籤功能、網址分享、離線瀏覽(初次啟動須連網)、佈景主題切換、字型調整、跨平台、無廣告、開放原始碼。
+    </p>
+  </description>
+  <url type="homepage">https://github.com/MrMYHuang/cbt-dict</url>
+  <launchable type="desktop-id">io.github.myhpwa.cbt-dict.desktop</launchable>
+  <developer_name>Meng-Yuan Huang</developer_name>
+  <screenshots>
+    <screenshot type="default">
+    </screenshot>
+  </screenshots>
+  <content_rating type="oars-1.1"/>
+  <releases>
+    <release version="1.0.0" date="2022-10-19">
+      <description>
+        <ul>
+          <li>第一版。</li>
+        </ul>
+      </description>
+    </release>
+  </releases>
+</component>
