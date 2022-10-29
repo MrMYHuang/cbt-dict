@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component type="desktop-application">
   <id>io.github.myhpwa.cbt-dict</id>
-  <name>丁福保漢英佛學辭典</name>
-  <summary>丁福保佛學大辭典，支援離線瀏覽！</summary>
+  <name>漢英佛學辭典</name>
+  <summary>A Chinese term to English definition Buddhist dictionary</summary>
   <metadata_license>MIT</metadata_license>
   <project_license>MIT</project_license>
   <description>
     <p>
-      丁福保佛學大辭典 (Ding Fubao: Dictionary of Buddhist Studies) 由丁福保居士耗時八年编著而成，譯自日本人織田德能的《佛學大辭典》，是刪除了日本佛教相關資料及文獻出處之後所成的節譯本。于1922年正式出版，收錄條目三萬多個，360多萬字。
-
-      此 app 特色：隨機或自定顯示一則佛學辭定義、書籤功能、網址分享、離線瀏覽(初次啟動須連網)、佈景主題切換、字型調整、跨平台、無廣告、開放原始碼。
+      漢英佛學辭典 app uses the dictionary: Soothill-Hodous Dictionary of Chinese Buddhist Terms. It was first published in 1937 and often reprinted, the Soothill-Hodous Dictionary of Chinese Buddhist Terms was digitized 2002-2003 under the guidiance of Charles Muller, who corrected many entries for inclusion in his Digital Dictionary of Buddhism.
     </p>
   </description>
   <url type="homepage">https://github.com/MrMYHuang/cbt-dict</url>
@@ -21,7 +19,7 @@
   </screenshots>
   <content_rating type="oars-1.1"/>
   <releases>
-    <release version="1.0.0" date="2022-10-19">
+    <release version="1.0.0" date="2022-10-29">
       <description>
         <ul>
           <li>第一版。</li>

@@ -2,7 +2,7 @@
 
 ## <a id='feature'>特色</a>
 
-Randomly showing or searching a Chinese term for its definition in English, Chinese/English UIs, bookmark, share by link、offline browsering, UI themes, font size adjustment, no AD, cross platforms, open source。
+Randomly showing or searching a Chinese term for its definition in English, Chinese/English UIs, bookmark, share by link, offline browsing, UI themes, font size adjustment, no AD, cross platforms, open source.
 
 ## 說明
 
