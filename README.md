@@ -38,11 +38,12 @@ Randomly showing or searching a Chinese term for its definition in English, Chin
 
 ## <a id='install'>安裝</a>
 
-此 app 目前有1種取得、安裝方式：
+此 app 目前有2種取得、安裝方式：
 
-  1. Chrome, Safari 網頁瀏覽器。
+  1. Chrome, Safari 網頁瀏覽器 (PWA 安裝）。
+  2. App 商店。
 
-### <a id='web-app'>從瀏覽器開啟/安裝</a>
+### <a id='web-app'>從瀏覽器開啟/安裝 (PWA)</a>
 請用 Chrome (Windows, macOS, Linux, Android 使用者)、Safari (iOS 使用者)瀏覽器開啟以下網址：
 
 https://myhpwa.github.io/cbt-dict
@@ -74,6 +75,25 @@ https://myhpwa.github.io/cbt-dict
 3. App 安裝完，出現在主畫面的圖示：
 
 <img src='https://github.com/MrMYHuang/cbt-dict/raw/main/docs/images/Safari/AppIcon.png' width='50%' />
+
+### <a id='storeApp'>從 App 商店安裝</a>
+#### 無法使用 App Store 安裝
+因為此 app 與本人另一款已上架之丁福保佛學大辭典 app 太像 （UI、功能），導致 Apple Store 審查未通過上架。iOS 使用者請改用 Safari 安裝 PWA，macOS 使用者請改用 Chrome 安裝 PWA：請見 https://github.com/MrMYHuang/cbt-dict#web-app
+
+#### Android - 使用 Google Play Store
+<a href='https://play.google.com/store/apps/details?id=io.github.myhpwa.cbtdict' target='_blank'>
+<img width="auto" height='60px' alt='Google Play立即下載' src='https://github.com/MrMYHuang/cbt-dict/raw/main/docs/images/zh-tw_badge_web_generic.png'/>
+</a>
+
+#### Windows 10+ - 使用 Microsoft Store
+<a href='https://www.microsoft.com/store/apps/9N7XJR2Z4VF2' target='_blank'>
+<img width="auto" height='60px' src='https://developer.microsoft.com/store/badges/images/Chinese-Traditional_get-it-from-MS.png' alt='Chinese Traditional badge'/>
+</a>
+
+#### Linux - 使用 Snap Store
+<a href='https://snapcraft.io/cbt-dict' target='_blank'>
+<img width="auto" height='60px' src='https://github.com/MrMYHuang/cbt-dict/raw/main/docs/images/[TW]-snap-store-black@2x.png' />
+</a>
 
 ## <a id='history'>版本歷史</a>
 * PWA 1.0.0:
