@@ -36,6 +36,7 @@ interface PageProps extends Props, RouteComponentProps<{
 }> { }
 
 class _EntryPage extends React.Component<PageProps, State> {
+  lastSelectedText: String | null = null;
   constructor(props: any) {
     super(props);
     this.state = {
@@ -51,7 +52,18 @@ class _EntryPage extends React.Component<PageProps, State> {
     };
 
     document.onselectionchange = () => {
-      this.setState({ showSearchSelectedTextButton: this.getSelectedText() !== null });
+      const selectedText = this.getSelectedText();
+
+      // Workaround a problem that on iOS, clicking a button causes text selection being removed immediately.
+      setTimeout(() => {
+        if (!selectedText) {
+          this.lastSelectedText = null;
+          this.setState({ showSearchSelectedTextButton: false });
+        } else {
+          this.lastSelectedText = selectedText;
+          this.setState({ showSearchSelectedTextButton: true });
+        }
+      }, 50);
     };
   }
 
