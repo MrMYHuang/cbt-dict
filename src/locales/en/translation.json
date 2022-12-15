@@ -32,7 +32,7 @@
     "Export": "Export",
     "Import": "Import",
     "Reset": "Reset",
-    "resetMessage": "Reseting will restore app settings to default values and clear all wheels！ Sure to reset?",
+    "resetMessage": "Reseting will restore app settings to default values and clear all offline data！ Sure to reset?",
     "resetSuccess": "Reseting succeeds!",
     "themeGreen": "Green",
     "themeDark": "Dark",
