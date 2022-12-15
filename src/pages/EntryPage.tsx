@@ -161,9 +161,9 @@ class _EntryPage extends React.Component<PageProps, State> {
           </IonToolbar>
         </IonHeader>
         <IonContent>
-          <div className='uiFontX2' style={{ color: 'var(--ion-color-primary)' }}>{this.state.entry.form}</div>
+          <div className='uiFontX2 textSelectable' style={{ color: 'var(--ion-color-primary)' }}>{this.state.entry.form}</div>
 
-          <div id='entry-container' className='textFont textSelectable' onClick={() => {
+          <div id='entry-container' className='textFont' onClick={() => {
             //this.props.history.push(`${Globals.pwaUrl}/entry/select`);
           }} dangerouslySetInnerHTML={{ __html: this.state.entry.sense }}>
           </div>
