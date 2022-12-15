@@ -96,6 +96,9 @@ https://myhpwa.github.io/cbt-dict
 </a>
 
 ## <a id='history'>版本歷史</a>
+* PWA 1.1.0:
+  * [新增] 定義頁搜尋選取字定義鈕。
+
 * PWA 1.0.1:
   * 修正錯字。
 

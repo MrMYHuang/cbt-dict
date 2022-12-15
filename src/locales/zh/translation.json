@@ -76,5 +76,6 @@
     "Items": "項",
     "UpdateOfflineData": "更新離線資料",
     "LastUpdate": "上次更新",
-    "copyrights": "版權宣告"
+    "copyrights": "版權宣告",
+    "noDefMessage": "找不到定義"
 }
