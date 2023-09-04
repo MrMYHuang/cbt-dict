@@ -81,14 +81,10 @@ https://myhpwa.github.io/cbt-dict
 因為此 app 與本人另一款已上架之丁福保佛學大辭典 app 太像 （UI、功能），導致 Apple Store 審查未通過上架。iOS 使用者請改用 Safari 安裝 PWA，macOS 使用者請改用 Chrome 安裝 PWA：請見 https://github.com/MrMYHuang/cbt-dict#web-app
 
 #### Android - 使用 Google Play Store
-<a href='https://play.google.com/store/apps/details?id=io.github.myhpwa.cbtdict' target='_blank'>
-<img width="auto" height='60px' alt='Google Play立即下載' src='https://github.com/MrMYHuang/cbt-dict/raw/main/docs/images/zh-tw_badge_web_generic.png'/>
-</a>
+與 App Store 發生相似問題，請改用 Chrome 安裝 PWA.
 
 #### Windows 10+ - 使用 Microsoft Store
-<a href='https://www.microsoft.com/store/apps/9N7XJR2Z4VF2' target='_blank'>
-<img width="auto" height='60px' src='https://developer.microsoft.com/store/badges/images/Chinese-Traditional_get-it-from-MS.png' alt='Chinese Traditional badge'/>
-</a>
+避免發生 Google Play Store 相同問題，已下架，請改用 Chrome 安裝 PWA.
 
 #### Linux - 使用 Snap Store
 <a href='https://snapcraft.io/cbt-dict' target='_blank'>
